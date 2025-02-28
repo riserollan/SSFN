@@ -1,2 +1,2 @@
-# S3IMamba
+# S3INet
 Coming soon.
