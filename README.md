@@ -1,2 +1,2 @@
-# S3INet
+# SSFN
 Coming soon.
